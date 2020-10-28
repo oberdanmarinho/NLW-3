@@ -21,7 +21,7 @@ const icon = L.icon({
 });
 
 // create and add marker icon
-L.marker([-19.9182925, -43.9457874], { icon: icon }).addTo(map);
+L.marker([-19.9182925, -43.9457874], { icon }).addTo(map);
 
 /* image galary */
 
