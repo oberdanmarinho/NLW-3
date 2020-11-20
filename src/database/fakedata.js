@@ -2,9 +2,9 @@ module.exports =
   [
     {
       id: 1,
-      lat: "-19.9182925",
-      lng: "-43.9457874",
-      name: "Lar das meninas",
+      lat: "-19.9231874",
+      lng: "-43.9465256",
+      name: "Lar das meninas 1",
       description:
         "Presta assisêcia a crianças de 06 a 15 anos que se encontre em situação de risco e/ou vulnerabildiade social",
       images: [
@@ -14,14 +14,14 @@ module.exports =
       instructions:
         "Venha como se sentir a vontade e traga muito amor e paciência para dar.",
       opening_hours: "Horario de visitas Das 18h até as 8h",
-      open_on_weekends: "1",
+      open_on_weekends: "1"
     },
 
     {
       id: 2,
-      lat: "-19.9152925",
-      lng: "-43.9457874",
-      name: "Lar dos meninos",
+      lat: "-19.9231873",
+      lng: "-43.9465255",
+      name: "Lar dos meninos 2",
       description:
         "Presta assisêcia a crianças de 06 a 15 anos que se encontre em situação de risco e/ou vulnerabildiade social",
       images: [
@@ -31,6 +31,6 @@ module.exports =
       instructions:
         "Venha como se sentir a vontade e traga muito amor e paciência para dar.",
       opening_hours: "Horario de visitas Das 18h até as 8h",
-      open_on_weekends: "0",
+      open_on_weekends: "0"
     },
   ];
